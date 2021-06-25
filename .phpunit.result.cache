@@ -1,0 +1,1 @@
+{"version":1,"defects":{"EmployeeContollerTest::test1":5,"EmployeeContollerTest::testGetAllJsonReturnsJson":4},"times":{"EmployeeContollerTest::test1":0.023,"EmployeeContollerTest::testGetAllJsonReturnsJson":0.106}}

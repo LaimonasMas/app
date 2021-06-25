@@ -1,0 +1,20 @@
+{
+    "name": "laimonas/app",
+    "authors": [{
+        "name": "Laimonas Masionis",
+        "email": "71811684+LaimonasMas@users.noreply.github.com"
+    }],
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "fakerphp/faker": "^1.14"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app",
+            "Controller\\": "app\\controllers",
+            "Repository\\": "app\\repositories",
+            "Model\\": "app\\models"
+        }
+    }
+
+}
